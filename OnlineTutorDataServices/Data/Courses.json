@@ -1,0 +1,24 @@
+[
+	{
+		"CourseID": "C001",
+		"CourseName": "DSA",
+		"CourseInHours": 0.0,
+		"NumberOfOfferings": 0,
+		"NumberOfSubscribers": 0
+	},
+	{
+		"CourseID": "C002",
+		"CourseName": "Algorithm",
+		"CourseInHours": 0.0,
+		"NumberOfOfferings": 0,
+		"NumberOfSubscribers": 0
+	},
+	{
+		"CourseID": "C003",
+		"CourseName": "ML",
+		"CourseInHours": 0.0,
+		"NumberOfOfferings": 0,
+		"NumberOfSubscribers": 0
+	}
+
+]

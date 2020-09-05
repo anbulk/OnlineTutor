@@ -1,0 +1,8 @@
+D:\OnlineTutor\OnlineTutorDataServices\bin\Debug\OnlineTutorDataServices.dll
+D:\OnlineTutor\OnlineTutorDataServices\bin\Debug\OnlineTutorDataServices.pdb
+D:\OnlineTutor\OnlineTutorDataServices\bin\Debug\Newtonsoft.Json.dll
+D:\OnlineTutor\OnlineTutorDataServices\bin\Debug\Newtonsoft.Json.xml
+D:\OnlineTutor\OnlineTutorDataServices\obj\Debug\OnlineTutorDataServices.csproj.CoreCompileInputs.cache
+D:\OnlineTutor\OnlineTutorDataServices\obj\Debug\OnlineTutorDataServices.csproj.CopyComplete
+D:\OnlineTutor\OnlineTutorDataServices\obj\Debug\OnlineTutorDataServices.dll
+D:\OnlineTutor\OnlineTutorDataServices\obj\Debug\OnlineTutorDataServices.pdb
